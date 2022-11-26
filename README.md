@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 I develop and learn projects with Spring framework in Java programming languages. &#x1F60E;</p>
 
  <p>In projects in general:</p>
- <p>RESTful API , Repository Design Pattern , JSON Web Token</p>
+ <p>RESTful API ,JSON Web Token</p>
  
    
 <h2  style="color:red">Skills:</h2>
