@@ -38,7 +38,7 @@ I develop and learn projects with Spring framework in Java programming languages
 <a href = "https://www.linkedin.com/in/anarmemmedov1501/">   <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"/></a> 
 <a href = 'https://twitter.com/anar1501'> <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667"/></a> 
 <a href = 'https://github.com/anar1996'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
-<a href = "mailto:mammadov_anar@outlook.com"> <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667"/></a> </p>
+<a href = "mailto:mammadov_anar@outlook.com"> <img width = '30px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKB_GAkztkDFBci7rKQFPqD7LOnJ0vGlDZZcAF4FhLQMUn5wBl6ICDoaDUPtGJ1e85BU&usqp=CAU"/></a> </p>
 
 
 
