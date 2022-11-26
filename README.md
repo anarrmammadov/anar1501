@@ -26,6 +26,7 @@ I develop and learn projects with Spring framework in Java programming languages
 <img src="https://permaclipart.org/imagesvg/165444/" alt="oracle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+ <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg](https://www.javatpoint.com/images/hibernate/hibernate2.png)" alt="gitlab" width="40" height="40"/>
 
  
 
