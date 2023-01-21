@@ -26,17 +26,10 @@ I develop and learn projects with Spring framework in Java programming languages
 <img src="https://permaclipart.org/imagesvg/165444/" alt="oracle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-<a href = "mailto:mammadov_anar@outlook.com"> <img width = '30px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKB_GAkztkDFBci7rKQFPqD7LOnJ0vGlDZZcAF4FhLQMUn5wBl6ICDoaDUPtGJ1e85BU&usqp=CAU"/></a>
-<img src="https://www.bedroomcomputing.com/2020/03/2020-0327-mybatis/mybatislog.png" alt="gitlab" width="40" height="40"/>
-<img src="https://www.logiciels.pro/wp-content/uploads/2021/05/liquibase-avis-prix-alternatives-logiciel.webp" alt="Java" width="40" height="40"/></p>
-<img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" alt="Java" width="40" height="40"/></p>
-
-
-
- 
-
-
-</p></p>
+<img src="https://www.bedroomcomputing.com/2020/03/2020-0327-mybatis/mybatislog.png" alt="mybatis" width="40" height="40"/>
+<img src="https://gpcoder.com/wp-content/uploads/2019/10/hibernate-1.png" alt="hibernate" width="40" height="40"/>
+<img src="https://thingsolver.com/wp-content/uploads/docker-cover.png" alt="DOCKER" width="40" height="40"/>
+</p>
  
 <h2>Contact me:</h2>
 <p>
