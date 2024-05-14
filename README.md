@@ -9,9 +9,7 @@ anar1996/anar1996 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1> Summary:</h1><br/>
-<p>Hi there. I am Anar Mammadov,👋 I love developing and learning software that related is backend area. Backend locations and <b>RDBMS</b> especially <b>SQL</b> are more interesting to me. Wondering dev architecture and usually write articles on medium etc. etc. ..
-
-I develop and learn projects with Spring framework in Java programming languages. &#x1F60E;</p>
+<p>I'm with 2 years of experience of working many e-commerce application as a Java Backend Developer. Backend technelogies and RDBMS especially SQL and Docker are more interesting to me. Wondering architecture and processing of structure any technology that related is backend. I developed projects with Spring framework in Java programming languages. In projects in general: RESTful API ,JSON Web Token. </p>
 
  <p>In projects in general:</p>
  <p>RESTful API ,JSON Web Token</p>
