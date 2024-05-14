@@ -10,14 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1> Summary:</h1><br/>
 <p>I'm with 2 years of experience of working many e-commerce application as a Java Backend Developer. Backend technelogies and RDBMS especially SQL and Docker are more interesting to me. Wondering architecture and processing of structure any technology that related is backend. I developed projects with Spring framework in Java programming languages. In projects in general: RESTful API ,JSON Web Token. </p>
-
- <p>In projects in general:</p>
- <p>RESTful API ,JSON Web Token</p>
  
    
 <h2  style="color:red">Skills:</h2>
 <p>
-<img src="https://edujimenezc.github.io/TheHackerSwissKnife/SOURCES/imagenes/java.png" alt="Java" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://edu.microdots.in/images/course-detail-mysql.jpg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
