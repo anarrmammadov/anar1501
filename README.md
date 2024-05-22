@@ -1,15 +1,10 @@
 - 👋 Hi, I’m @anar1501
-- 👀 I’m interested in programming language.
-- 🌱 I’m currently learning Java programming language.
+- 👀 I’m interested in technlology that is related to backend.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 How to reach me https://www.linkedin.com/in/anarmemmedov1501/ .
 
-<!---
-anar1996/anar1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1> Summary:</h1><br/>
-<p>I have 2 years of experience working as a Java Backend Developer in e-commerce application. I developed projects with Spring framework in Java programming language. I'm interested a technology that related is backend. </p>
+<p>I have 2 years of experience working as a Java Backend Developer in e-commerce application. I developed projects with Spring framework in Java programming language.</p>
  
    
 <h2  style="color:red">Skills:</h2>
@@ -28,9 +23,9 @@ You can click the Preview link to take a look at your changes.
  
 <h2>Contact me:</h2>
 <p>
-<a href = "https://www.linkedin.com/in/anarmemmedov1501/">   <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"/></a> 
-<a href = 'https://github.com/anar1996'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
-<a href = '(https://medium.com/@mammadov1501)'> <img width = '30px' align= 'center' src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="github" width="40" height="40"/>
+<a href = "https://www.linkedin.com/in/anarmemmedov1501/">   <img width = '30px' align= 'center' src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"/></a> 
+<a href = 'https://github.com/anar1501'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
+<a href = 'https://medium.com/@mammadov1501'> <img width = '30px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwZCRH9pWGwHDjvS1dsb8fVHcnw3H0BNeHYlwtMix4A&s" alt="github" width="40" height="40"/>
 
 
 
