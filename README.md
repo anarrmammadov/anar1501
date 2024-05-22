@@ -9,7 +9,7 @@ anar1996/anar1996 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1> Summary:</h1><br/>
-<p>I'm with 2 years of experience of working many e-commerce application as a Java Backend Developer. Backend technelogies and RDBMS especially SQL and Docker are more interesting to me. Wondering architecture and processing of structure any technology that related is backend. I developed projects with Spring framework in Java programming languages. In projects in general: RESTful API ,JSON Web Token. </p>
+<p>I have 2 years of experience working as a Java Backend Developer in e-commerce application. I developed projects with Spring framework in Java programming language. I'm interested a technology that related is backend. </p>
  
    
 <h2  style="color:red">Skills:</h2>
