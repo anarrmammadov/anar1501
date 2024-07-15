@@ -24,7 +24,7 @@
 <h2>Contact me:</h2>
 <p>
 <a href = "https://www.linkedin.com/in/anarmemmedov1501/">   <img width = '30px' align= 'center' src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"/></a> 
-<a href = 'https://github.com/anar1501'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
+<a href = 'anar.mammadov.1996@gmail.com'> <img width = '30px' align= 'center' src="https://cdn2.downdetector.com/static/uploads/logo/gmail_logo_hSykdMC.jpeg"/></a>
 <a href = 'https://medium.com/@mammadov1501'> <img width = '30px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwZCRH9pWGwHDjvS1dsb8fVHcnw3H0BNeHYlwtMix4A&s" alt="github" width="40" height="40"/>
 
 
