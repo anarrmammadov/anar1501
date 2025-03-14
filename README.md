@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @anar1501
 - 👀 I’m interested in technlology that is related to backend.
 - 💞️ I’m looking to collaborate on web project.
-- 📫 How to reach me https://www.linkedin.com/in/anarmemmedov1501/ .
+- 📫 How to reach me https://www.linkedin.com/in/anarmamadov/ .
 
 <h1> Summary:</h1><br/>
-<p>I have 2 years experience worked as a Java Backend Developer in enterprise application in different companies. I developed projects with Spring framework in Java programming language. I was wondering RDBMS and structure of any technology that was related to backend. I enjoy working on complex backend systems where I can utilize my skills in Java, Spring Boot, and microservices. Solving tough technical problems motivates me. I look forward to learning new technologies, improving my existing skills. I value a team culture where communication and collaboration are encouraged. Working with people who are passionate about sharing knowledge and ideas helps create an innovative environment. I appreciate a company that values employees' time and allows for a healthy balance between work and personal life, which in turn keeps productivity and creativity high.</p>
+<p>Java Software Developer with 2 years of experience developing enterprise applications across multiple industries. Implementing backend systems using Java and Spring framework.</p>
  
    
 <h2  style="color:red">Skills:</h2>
@@ -24,7 +24,7 @@
  
 <h2>Contact me:</h2>
 <p>
-<a href = "https://www.linkedin.com/in/anarmemmedov1501/">   <img width = '30px' align= 'center' src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"/></a> 
+<a href = "https://www.linkedin.com/in/anarmamadov//">   <img width = '30px' align= 'center' src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"/></a> 
 <a href = 'anar.mammadov.1996@gmail.com'> <img width = '30px' align= 'center' src="https://cdn2.downdetector.com/static/uploads/logo/gmail_logo_hSykdMC.jpeg"/></a>
 <a href = 'https://medium.com/@mammadov1501'> <img width = '30px' align= 'center' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwZCRH9pWGwHDjvS1dsb8fVHcnw3H0BNeHYlwtMix4A&s" alt="github" width="40" height="40"/>
 
